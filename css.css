@@ -1,0 +1,17 @@
+/*#header{
+    width: 100%;
+    height: 50%;
+    background-color: darkslategray;
+    margin-bottom: 1;
+}*/
+h1{
+    color: darkolivegreen;
+    font: 36;
+    margin-left: 512;
+}
+h3{
+    width: 1024;
+    color: olive;
+    font-style: normal;
+    margin: 512;
+}
