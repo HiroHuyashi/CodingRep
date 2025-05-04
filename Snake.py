@@ -56,7 +56,6 @@ while RUNNING:
         SCORE+=1
     else:
         SNAKE.pop()
-
     
     screen.fill((BLACK))
     draw_snake(SNAKE)
